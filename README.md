@@ -1,5 +1,7 @@
-# Digital Forensic
+# Digital Forensic 🕵️
 > Curated list of Digital Forensic Tools and Resources.
+
+Digital Forensics helps the forensic team to analyzes, inspect, identifies, and preserve the digital evidence residing on various types of electronic devices. Below content will provide you tools and resources for finding evidence from digital media like a computer, mobile phone, server, or network.
 
 ## Content
 - [How To Hide Text Inside Image File](https://blogsection.in/technology/how-to-hide-text-inside-image-file/)
@@ -12,7 +14,7 @@
 - [Case study for Email-Forensics](https://blogsection.in/security/case-study-for-email-forensics/)
 - [Case Study: Sub Contractor Investigation](https://blogsection.in/security/case-study-sub-contractor-investigation/)
 
-# License
+## License
 
 [MIT License](LICENSE)
 
