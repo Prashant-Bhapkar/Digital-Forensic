@@ -11,6 +11,8 @@ Digital Forensics helps the forensic team to analyzes, inspect, identifies, and 
 - [Anti-Forensic Techniques: Secure Deletion, File Hiding](https://blogsection.in/security/anti-forensic-techniques-secure-deletion-file-hiding/)
 - [Data Recovery Using dd, dcfldd, dc3dd commands](https://blogsection.in/technology/data-recovery-using-dd-dcfldd-dc3dd-commands/)
 - [Image and Audio Steganography Using “openpuff” Tool](https://blogsection.in/technology/image-and-audio-steganography-using-openpuff-tool/)
+
+## Case Study
 - [Case study for Email-Forensics](https://blogsection.in/security/case-study-for-email-forensics/)
 - [Case Study: Sub Contractor Investigation](https://blogsection.in/security/case-study-sub-contractor-investigation/)
 
