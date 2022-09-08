@@ -15,6 +15,7 @@ Digital Forensics helps the forensic team to analyzes, inspect, identifies, and 
 ## Case Study
 - [Case study for Email-Forensics](https://blogsection.in/security/case-study-for-email-forensics/)
 - [Case Study: Sub Contractor Investigation](https://blogsection.in/security/case-study-sub-contractor-investigation/)
+- [Top 5 Cyber Forensics Case Studies in India](https://texial.net/top-5-cyber-forensics-case-studies-in-india/)
 
 ## License
 
