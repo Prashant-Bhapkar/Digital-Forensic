@@ -85,7 +85,11 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
+![Create_Pull_Request](/assets/Create_Pull_Request.png)
+
 Now submit the pull request.
+
+![Submit_Pull_Request](/assets/Submit_Pull_Request.png)
 
 Soon after reviewing all your changes will be merged into the master branch of this project. You will get a notification email once the changes have been merged.
 
